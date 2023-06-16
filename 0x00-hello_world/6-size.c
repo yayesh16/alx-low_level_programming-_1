@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints the sixe of various typesa based on
- * the computer it iscompiled and run on..
+ * main - prints the size of various types based on
+ * the computer it is compiled and run on..
  * Return: Always 0.
  */
 int main(void)
