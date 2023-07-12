@@ -56,7 +56,7 @@ char **strtow(char *str)
 			{
 				end = i;
 				tmp = (char *) malloc(sizeof(char) * (c + 1));
-				if (temp == NULL)
+				if (tmp == NULL)
 					return (NULL);
 				while (start < end)
 					*tmp = '\0';
